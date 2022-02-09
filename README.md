@@ -11,3 +11,15 @@ Running this project, you should do following steps:
 - finally, Run the command : 
     - streamlit run app.py
 
+Requirements:
+    - Model Training phase:
+        - numpy 
+        - pandas
+        - seaborn
+        - matplolib
+        - sklearn
+    - web implementing phase:
+        - streamlit
+        - requests
+        
+
